@@ -1,5 +1,4 @@
 # Practical-Application-Assignment-11.1
- # Practical-Application-Assignment-11.1
 In this pratical application, I built linear regression models to identify key factors that can impact the price of a used car.
 The dataset includes informations of the price from 250K used cars and multiple columns with information that may be relevant to the price.
 
